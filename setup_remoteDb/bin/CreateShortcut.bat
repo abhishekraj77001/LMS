@@ -1,0 +1,3 @@
+powershell "$s=(New-Object -COM WScript.Shell).CreateShortcut('C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\starter.lnk');$s.TargetPath='C:\Program Files\lms_pc\LMS\starter.bat';$s.Save()"
+
+powershell "$s=(New-Object -COM WScript.Shell).CreateShortcut('C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\start_pb.lnk');$s.TargetPath='C:\Program Files\lms_pc\LMS\start_pb.bat';$s.Save()"

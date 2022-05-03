@@ -1,0 +1,1 @@
+run "uninstaller.bat" to uninstall LMS with parental controls

@@ -1,0 +1,1 @@
+start javaw -Xmx200m -cp "C:\Program Files\lms_pc\LMS\lms_pc.jar" "blocker.ProgramsBlocker"
